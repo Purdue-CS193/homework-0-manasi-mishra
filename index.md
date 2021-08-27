@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-```
+``` markdown
 i can use this command to create a text block ~ similar to discord!
 
 ```
